@@ -108,5 +108,5 @@ public partial class ProjectileCollisionSystem : SourceGenSystem
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+MIT License - see [LICENSE](LICENSE.md) file for details.
 
