@@ -1,0 +1,7 @@
+{
+  "name": "com.nine.morpeh-sourcegen",
+  "displayName": "Morpeh Source Generator",
+  "version": "1.0.0",
+  "description": "Morpeh source generator. Easier way to initialize filters and stashes",
+  "author": "ese9"
+}
